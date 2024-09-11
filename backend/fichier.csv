@@ -1,0 +1,25 @@
+ville_depart,latitude,longitude,ville_successeurs,temps_trajet_normal
+Ambatolampy Antehiroka,-18.833439675886503,47.490662529010045,"Ambohibao Antehiroka,Ambohidroa,Ambohijanahary Antehiroka","9,11,2"
+Ambohijanahary Antehiroka,-18.833033498300892,47.49182124286506,"Ambatolampy Antehiroka,Ambohibao Antehiroka","2,11"
+Ambohidroa,-18.851651223569558,47.48568341227413,"Ambatolampy Antehiroka, Andranomena","11,4"
+Andranomena,-18.853678310375177,47.479187145001944,"Ambohidroa,Ambohibao Antehiroka,Ambodimita","4,5,4"
+Ambohibao Antehiroka,-18.848804703150872,47.47558225631558,"Ambatolampy Antehiroka,Andranomena,Imerinafovoany","9,5,6"
+Talatamaty,-18.840697683048614,47.453994950745006,"Imerinafovoany,Mandrosoa Ivato","6,11"
+Imerinafovoany,-18.843202099404063,47.46737591070399,"Ambohibao Antehiroka,Talatamaty","6,6"
+Mandrosoa Ivato,-18.821972556015584,47.46545577674982,"Talatamaty,Mamory Ivato","6,5"
+Mamory Ivato,-18.80937527423694,47.47276635370774,"Mandrosoa Ivato,Aeroport Ivato","5,7"
+Aeroport Ivato,-18.79934420711477,47.47795583939036,"Mamory Ivato, Ambohijanahary Antehiroka","7,16"
+Ambodimita,-18.86580261461653,47.48505586607509,"Ambohimanarina,Andranomena","3,4"
+Ambohimanarina,-18.870352524923124,47.49300051507917,"Ambodimita,Ankazomanga","3,8"
+Ankazomanga,-18.88296514236569,47.51160447857165,"Ambohimanarina,Tsaramasay","8,4"
+Tsaramasay,-18.891522091368742,47.51789075951309,"Ankazomanga,Antanimena","4,5"
+Antanimena,-18.89926490712913,47.52137137532908,"Tsaramasay,Analakely,Ankadifotsy","5,8,2"
+Ankadifotsy,-18.896800489598597,47.52337920211147,"Ankorondrano,Antanimena,Ambodivona","6,2,8"
+Ambodivona,-18.8973479315348,47.528461076672485,"Ankadifotsy,Analakely","8,16"
+Ankorondrano,-18.891432863804514,47.52287354442111,"Ankadifotsy,Ambatomainty,Manjakaray","6,17,7"
+Manjakaray,-18.8881774985005,47.535631352137464,Ankorondrano,7
+Ambatomainty,-18.89229916019589,47.54451838117469,"Ankorondrano,Ampasapito","17,10"
+Ampasapito,-18.8899109701106,47.548571381459865,"Ambatomainty,Nanisana,Ankerana","10,5,7"
+Nanisana,-18.886274195830232,47.547414222659036,Ampasapito,5
+Ankerana,-18.886509898116362,47.557621914294984,Ampasapito,7
+Analakely,-18.906573063820264,47.5286240684696,"Antanimena,Ambodivona","8,16"
